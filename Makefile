@@ -1,7 +1,7 @@
 UNAME=$(shell uname)
 
-target = enrico_carlesso_cv
-target_en = enrico_carlesso_cv_en
+target = riccardo_carlesso_cv
+target_en = riccardo_carlesso_cv_en
 deps = Makefile $(target).tex
 deps_en = Makefile $(target_en).tex
 
