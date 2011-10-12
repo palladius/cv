@@ -8,6 +8,10 @@ Todo2 =>Merge Italian and English Cv with some logic for supporting Irish view (
 
 Yay!
 
+=INSTALL=
+ sudo apt-get install tex-common latex-make
+
+
 =TODO=
 
 Add picture
